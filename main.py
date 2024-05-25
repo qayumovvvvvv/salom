@@ -3,7 +3,6 @@ from functions import file_count, biggest_word, increase_num, gmail
 
 # print(biggest_word('savollar.txt'))
 
-
 data = [1,2,3,4,5,6,7,8,9, 11, 13,10]
 
 # print(increase_num(data=data))
